@@ -1,3 +1,5 @@
-# Vargrant - or - how to code in your local computer
-## learning objectives
-at the end of this project, you are expected to be able to explain to anyone, without the help of anyone.
+# My first vagrant project on ALX
+## learning aims
+*Easily explain ubuntu to a twelve year old
+* know what the term vagrant means
+
